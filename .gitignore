@@ -1,0 +1,5 @@
+#Don't track compiled scripts
+scripts/*.pex
+#Don't track archives
+*.bsa
+*.7z
